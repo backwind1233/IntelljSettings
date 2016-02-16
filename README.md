@@ -1,2 +1,0 @@
-# IntelljSettings
-Intellj Setting Files
