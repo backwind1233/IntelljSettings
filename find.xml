@@ -1,0 +1,27 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '/Users/plato1233/Git/shop-business-web/src/main/java/com/dianping/tuanad/web/action/WedTuanSkuLaunchAction.java'" />
+    <option name="defaultScopeName" value="File '/Users/plato1233/Git/shop-business-web/src/main/java/com/dianping/tuanad/web/action/WedTuanSkuLaunchAction.java'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/shop-business-web/src/main/java/com/dianping/tuanad/web/action/WedTuanSkuLaunchAction.java'" />
+    <option name="FILE_MASK" value="*.xml" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>.xml</mask>
+      <mask>*.JAVA</mask>
+      <mask>*.groovy</mask>
+      <mask>*.html</mask>
+      <mask>*.layout</mask>
+      <mask>xml</mask>
+      <mask>*.XML</mask>
+      <mask>*.xml'</mask>
+      <mask>*.java</mask>
+      <mask>*.ftl</mask>
+      <mask>*.xml</mask>
+    </recentFileMasks>
+  </component>
+</application>

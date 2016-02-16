@@ -1,0 +1,19 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="jaL/cwtop+orXV1caTAbKglIVzf7bDNpFNKilR36JGI=" />
+    <option name="installationTimestamp" value="1453133173231" />
+    <option name="firstBootTime" value="23871466119" />
+    <option name="previousBootTime" value="23380660675" />
+    <option name="currentBootTime" value="32820297828" />
+    <option name="isOpenOptimizerOnStartup" value="false" />
+    <option name="isFirstBoot" value="false" />
+    <option name="isSignedUp" value="true" />
+    <option name="isJRebelPresentNotificationSent" value="true" />
+    <option name="company" value="gsdzcj" />
+    <option name="email" value="gsdzcj@qq.com" />
+    <option name="firstName" value="gsdzcj" />
+    <option name="lastName" value="go" />
+    <option name="phoneNumber" value="13984748373" />
+    <option name="getDevelopersInCompany" value="3-9" />
+  </component>
+</application>

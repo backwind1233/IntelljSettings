@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="TestGitRevert" type="PLAIN_TEXT" />
+      <mapping pattern="FlowControlUtil.groovy" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="ignoretest" type="PLAIN_TEXT" />
+      <mapping pattern="tetetete" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="appcontext-dao" type="XML" />
+      <mapping pattern="appcontext-service" type="XML" />
+    </extensionMap>
+  </component>
+</application>
