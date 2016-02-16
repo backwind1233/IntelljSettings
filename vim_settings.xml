@@ -96,7 +96,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/generalguide/generalguideDeTail.ftl" timestamp="1455609126940" />
+      <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/generalguide/generalguideDeTail.ftl" timestamp="1455626480743">
+        <mark key="'" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="137" column="28" filename="$USER_HOME$/Git/JavaTest/src/test/java/javase/JavaTest.java" />
@@ -144,6 +146,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/Git/wedding-shop-web/src/main/java/com/dianping/wedding/banquet/action/FuzzymatchBookingAction.java" />
       <jump line="43" column="8" filename="$USER_HOME$/Git/wedding-shop-web/src/main/java/com/dianping/wedding/banquet/action/FuzzymatchBookingAction.java" />
       <jump line="24" column="8" filename="$USER_HOME$/Git/wedding-shop-web/src/main/java/com/dianping/wedding/banquet/action/FuzzymatchBookingAction.java" />
+      <jump line="117" column="28" filename="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/generalguide/generalguideDeTail.ftl" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/generalguide/generalguideDeTail.ftl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
