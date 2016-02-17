@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Git/shop-business-web/src/main/java/com/dianping/common/WeddingMessage.java" timestamp="1436861708851">
-        <mark key="[" line="191" column="4" />
-        <mark key="]" line="191" column="3" />
-        <mark key="^" line="191" column="3" />
-        <mark key="." line="191" column="3" />
-      </file>
       <file name="/JSON Fragment (FuzzymatchBookingAction.java:1061).json" timestamp="1454654856156">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,10 +12,7 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1455512625195">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JSON Fragment (BanquetLandingPageAction.java:2330).json" timestamp="1454589880463">
+      <file name="/a.dummy" timestamp="1455692649983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Git/shopsearch-web/pom.xml" timestamp="1441769275416">
@@ -29,31 +20,16 @@
         <mark key="]" line="158" column="0" />
         <mark key="." line="158" column="0" />
       </file>
-      <file name="/a.regexp" timestamp="1436842785441">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/generalguide/generalguideData.ftl" timestamp="1455627658347">
         <mark key="'" line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/demolist/sitemeshValidate.ftl" timestamp="1455628445751">
+      <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/webapp/WEB-INF/pages/demolist/sitemeshValidate.ftl" timestamp="1455688913623">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/shopsearch-web/src/main/webapp/WEB-INF/pages/common/hunyan/pcQuickSearch.ftl" timestamp="1441765637565">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Git/shop-business-web/src/main/webapp/WEB-INF/pages/survey.ftl" timestamp="1455605785294">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/wedding-shop-web/src/main/java/com/dianping/wedding/banquet/action/FuzzymatchBookingAction.java" timestamp="1454655204650">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="49" />
-        <mark key="." line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Git/JavaTest/src/test/java/javase/JavaTest.java" timestamp="1436859924176">
         <mark key="'" line="230" column="0" />
@@ -62,6 +38,41 @@
         <mark key="^" line="32" column="44" />
         <mark key="." line="32" column="44" />
       </file>
+      <file name="/Bash" timestamp="1455627515960">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/shop-business-web/src/main/resources/config/struts/struts-generalguide.xml" timestamp="1455692655688" />
+      <file name="/JSON Fragment (BanquetLandingPageAction.java:2332).json" timestamp="1454650184861">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/Git/shop-business-web/src/main/webapp/WEB-INF/pages/guide/generalguide.ftl" timestamp="1455692730764" />
+      <file name="/Dummy.txt" timestamp="1455692834604">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JSON Fragment (BanquetLandingPageAction.java:2330).json" timestamp="1454589880463">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/shop-business-web/pom.xml" timestamp="1455693334136" />
+      <file name="/a.regexp" timestamp="1436842785441">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/shopsearch-web/src/main/webapp/WEB-INF/pages/common/hunyan/pcQuickSearch.ftl" timestamp="1441765637565">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/wedding-shop-web/src/main/java/com/dianping/wedding/banquet/action/FuzzymatchBookingAction.java" timestamp="1454655204650">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="49" />
+        <mark key="." line="24" column="50" />
+      </file>
+      <file name="$USER_HOME$/Git/shop-business-web/src/main/java/com/dianping/home/web/action/HomeDesignBusinessScopeAction.java" timestamp="1455689542345">
+        <mark key="]" line="122" column="4" />
+        <mark key="." line="122" column="4" />
+      </file>
       <file name="$USER_HOME$/Git/JavaTest/src/test/java/javase/Person.java" timestamp="1436756219626">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="15" column="3" />
@@ -69,33 +80,16 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="/Bash" timestamp="1455627515960">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Git/shop-business-web/src/main/webapp/WEB-INF/pages/decorate/shopDecorate.ftl" timestamp="1441765554181">
-        <mark key="[" line="112" column="18" />
-        <mark key="]" line="112" column="18" />
-        <mark key="^" line="112" column="18" />
-        <mark key="." line="112" column="18" />
-      </file>
-      <file name="/JSON Fragment (BanquetLandingPageAction.java:2332).json" timestamp="1454650184861">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/Git/shopsearch-web/src/main/java/com/dianping/shopsearchweb/util/PicUrlUtils.java" timestamp="1441770075007">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Git/wed-marketing-mirror-web/src/main/webapp/WEB-INF/pages/shop/banquet/banquetbooking.ftl" timestamp="1454588225762">
-        <mark key="[" line="90" column="36" />
-        <mark key="]" line="90" column="37" />
-        <mark key="." line="90" column="37" />
-        <mark key="^" line="90" column="37" />
-      </file>
+      <file name="$USER_HOME$/Git/shop-businessadmin-web/src/main/resources/config/struts/struts-generalguide.xml" timestamp="1455692414032" />
       <file name="/JSON Fragment (BanquetLandingPageAction.java:2348).json" timestamp="1454590221222">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Git/shop-business-web/src/main/java/com/dianping/onlineguide/GeneralGuideAction.java" timestamp="1455692648179" />
       <file name="$USER_HOME$/Git/shop-business-web/src/main/java/com/dianping/common/WeddingBaseAction.java" timestamp="1454665205126">
         <mark key="[" line="611" column="97" />
       </file>
@@ -161,7 +155,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICA8Iy0tPHRyIHN0eWxlPSJoZWlnaHQ6IDUwcHg7IiA+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08dGQ+5bem5L6n5a+86Iiq77yaPC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD48aW5wdXQgdHlwZT0idGV4dCIgaWQ9InBhZ2VOYW1lIiB2YWx1ZT0iPCNpZiBnZW5lcmFsR3VpZGVEVE8/ZXhpc3RzPiR7Z2VuZXJhbEd1aWRlRFRPLnBhZ2VOYW1lP2lmX2V4aXN0c308LyNpZj4iIHN0eWxlPSJ3aWR0aDozMDBweDsiIC8+PC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwjLS3lt6bkvqflr7zoiKrnmoTpgLvovpHph4zpnIDopoHlr7nlupTnmoRwYWdlTmFtZSzpgInmi6nlr7nlupTnmoTnsbvnm67lsLHlj6/ku6XkuoYtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTwvdGQ+LS0+CiAgICAgICAgICAgICAgICAgICAgPCMtLTwvdHI+LS0+CiAgICAgICAgICAgICAgICAgICAgPCMtLTx0ciBzdHlsZT0iaGVpZ2h0OiA1MHB4OyIgPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8Iy0tPHRkPnRhYuaYvuekuueahOaVmeeoi++8mjwvdGQ+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08dGQ+PGlucHV0IHR5cGU9InRleHQiIGlkPSJwYWdlVGl0bGUiIHZhbHVlPSI8I2lmIGdlbmVyYWxHdWlkZURUTz9leGlzdHM+JHtnZW5lcmFsR3VpZGVEVE8ucGFnZVRpdGxlP2lmX2V4aXN0c308LyNpZj4iIHN0eWxlPSJ3aWR0aDozMDBweDsiIC8+PC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwjLS3luIzmnJvmmL7npLrnmoTmlZnnqIvnmoTlkI3lrZcsZWc65a626KOF5Zui5Y2V5Y+R5biD5oyH5Y2XLS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08L3RkPi0tPgogICAgICAgICAgICAgICAgICAgIDwjLS08L3RyPi0tPg==</text>
+        <text encoding="base64">cHVibGljIFN0cmluZyBnZXRGaXJzdE5hdigpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gZmlyc3ROYXY7CiAgICB9CiAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>getRequest</text>
@@ -173,31 +167,31 @@
         <text encoding="base64">YnV0IGlmIHlvdSBoYXZlIApzb21lIHRoaW5nIHRvIHRlbGwgbWUgCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">cHVibGljIFN0cmluZyBnZXRGaXJzdE5hdigpIHsKICAgICAgICAKICAgICAgICByZXR1cm4gZmlyc3ROYXY7CiAgICB9CiAgICA=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICA8Iy0tPHRyIHN0eWxlPSJoZWlnaHQ6IDUwcHg7IiA+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08dGQ+5bem5L6n5a+86Iiq77yaPC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD48aW5wdXQgdHlwZT0idGV4dCIgaWQ9InBhZ2VOYW1lIiB2YWx1ZT0iPCNpZiBnZW5lcmFsR3VpZGVEVE8/ZXhpc3RzPiR7Z2VuZXJhbEd1aWRlRFRPLnBhZ2VOYW1lP2lmX2V4aXN0c308LyNpZj4iIHN0eWxlPSJ3aWR0aDozMDBweDsiIC8+PC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwjLS3lt6bkvqflr7zoiKrnmoTpgLvovpHph4zpnIDopoHlr7nlupTnmoRwYWdlTmFtZSzpgInmi6nlr7nlupTnmoTnsbvnm67lsLHlj6/ku6XkuoYtLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTwvdGQ+LS0+CiAgICAgICAgICAgICAgICAgICAgPCMtLTwvdHI+LS0+CiAgICAgICAgICAgICAgICAgICAgPCMtLTx0ciBzdHlsZT0iaGVpZ2h0OiA1MHB4OyIgPi0tPgogICAgICAgICAgICAgICAgICAgICAgICA8Iy0tPHRkPnRhYuaYvuekuueahOaVmeeoi++8mjwvdGQ+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08dGQ+PGlucHV0IHR5cGU9InRleHQiIGlkPSJwYWdlVGl0bGUiIHZhbHVlPSI8I2lmIGdlbmVyYWxHdWlkZURUTz9leGlzdHM+JHtnZW5lcmFsR3VpZGVEVE8ucGFnZVRpdGxlP2lmX2V4aXN0c308LyNpZj4iIHN0eWxlPSJ3aWR0aDozMDBweDsiIC8+PC90ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgPCMtLTx0ZD4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwjLS3luIzmnJvmmL7npLrnmoTmlZnnqIvnmoTlkI3lrZcsZWc65a626KOF5Zui5Y2V5Y+R5biD5oyH5Y2XLS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwjLS08L3RkPi0tPgogICAgICAgICAgICAgICAgICAgIDwjLS08L3RyPi0tPg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUKICAgICAgICBzb21lIHRoaW5nIHRvIHRlbGwgbWUK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dGhpcyBpcyBhIHRlc3QgZm9yIG1lIHRvIHRlc3QgbXkgdmltIG9wZXIKYnV0IGlmIHlvdSBoYXZlIApzb21lIHRoaW5nIHRvIHRlbGwgbWUgCmJ1dCBpZiB5b3UgaGF2ZSAKc29tZSB0aGluZyB0byB0ZWxsIG1lIApidXQgaWYgeW91IGhhdmUgCnNvbWUgdGhpbmcgdG8gdGVsbCBtZSAKYnV0IGlmIHlvdSBoYXZlIApzb21lIHRoaW5nIHRvIHRlbGwgbWUgCmJ1dCBpZiB5b3UgaGF2ZSAKc29tZSB0aGluZyB0byB0ZWxsIG1lCgogICAgICAgIHNvbWUgdGhpbmcgdG8gdGVsbCBtZQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c29tZSB0aGluZyB0byB0ZWxsIG1lCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBidXQgaWYgeW91IGhhdmUgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBidXQgaWYgeW91IGhhdmUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnV0IGlmIHlvdSBoYXZlIAo=</text>
+        <text encoding="base64">ICAgICAgICBidXQgaWYgeW91IGhhdmUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>hide</text>
