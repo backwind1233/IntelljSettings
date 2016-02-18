@@ -4,7 +4,6 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
-  <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta d" />
