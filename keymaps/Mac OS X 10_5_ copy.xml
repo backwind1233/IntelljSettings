@@ -2,6 +2,7 @@
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
+  <action id="CollapseSelection" />
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.NextPage" />
   <action id="EditorDeleteLine">
@@ -18,6 +19,15 @@
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="JRebel Executor">
@@ -45,6 +55,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="TypeHierarchy" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift v" />
