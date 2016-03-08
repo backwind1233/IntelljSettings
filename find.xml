@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/plato1233/Git/JavaLearning4NewFeature/JavaLearning/src/com/refactor/method/ReplaceTempWithQuery.java'" />
-    <option name="defaultScopeName" value="File '/Users/plato1233/Git/JavaLearning4NewFeature/JavaLearning/src/com/refactor/method/ReplaceTempWithQuery.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/JavaLearning4NewFeature/JavaLearning/src/com/refactor/method/ReplaceTempWithQuery.java'" />
+    <option name="customScope" value="Module 'shop-business-web'" />
+    <option name="defaultScopeName" value="Module 'shop-business-web'" />
+    <option name="SEARCH_SCOPE" value="Module 'shop-business-web'" />
     <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>*.properties</mask>
