@@ -3,7 +3,7 @@
     <option name="customScope" value="Module 'shop-business-web'" />
     <option name="defaultScopeName" value="Module 'shop-business-web'" />
     <option name="SEARCH_SCOPE" value="Module 'shop-business-web'" />
-    <option name="FILE_MASK" value="*.ftl" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -19,9 +19,9 @@
       <mask>xml</mask>
       <mask>*.XML</mask>
       <mask>*.xml'</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.ftl</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
