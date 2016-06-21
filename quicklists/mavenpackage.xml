@@ -1,6 +1,0 @@
-<list display="mavenpackage" description="clean package run">
-  <action id="QuickList.$Separator$" />
-  <action id="Maven_eb51cfdshop-businessadmin-web84d60208clean" />
-  <action id="Maven_eb51cfdshop-businessadmin-web84d60208package" />
-  <action id="JRebel Debug" />
-</list>
