@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="CopyReference">
+        <abbreviation name="cr" />
+      </action>
+      <action id="JRebel Debug">
+        <abbreviation name="dwj" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
