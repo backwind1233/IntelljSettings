@@ -10,11 +10,11 @@
       <action id="TypeHierarchy">
         <abbreviation name="th" />
       </action>
-      <action id="JRebel Debug">
-        <abbreviation name="dwj" />
-      </action>
       <action id="MethodUp">
         <abbreviation name="pm" />
+      </action>
+      <action id="JRebel Debug">
+        <abbreviation name="dwj" />
       </action>
     </abbreviations>
   </component>
