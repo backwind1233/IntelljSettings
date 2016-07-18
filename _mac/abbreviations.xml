@@ -1,11 +1,20 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
+      <action id="MethodDown">
+        <abbreviation name="nm" />
+      </action>
       <action id="CopyReference">
         <abbreviation name="cr" />
       </action>
+      <action id="TypeHierarchy">
+        <abbreviation name="th" />
+      </action>
       <action id="JRebel Debug">
         <abbreviation name="dwj" />
+      </action>
+      <action id="MethodUp">
+        <abbreviation name="pm" />
       </action>
     </abbreviations>
   </component>
