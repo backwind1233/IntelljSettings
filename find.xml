@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/plato1233/Git/wed-operation-parent/wed-operation-api/src/main/java/com/dianping/wed/operation/marketing/dto/landingpage/LandingPageBookingUserDTO.java'" />
-    <option name="defaultScopeName" value="File '/Users/plato1233/Git/wed-operation-parent/wed-operation-api/src/main/java/com/dianping/wed/operation/marketing/dto/landingpage/LandingPageBookingUserDTO.java'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/wed-operation-parent/wed-operation-api/src/main/java/com/dianping/wed/operation/marketing/dto/landingpage/LandingPageBookingUserDTO.java'" />
+    <option name="customScope" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
+    <option name="defaultScopeName" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
