@@ -10,6 +10,9 @@
       <action id="TypeHierarchy">
         <abbreviation name="th" />
       </action>
+      <action id="Images.SetBackgroundImage">
+        <abbreviation name="sbgi" />
+      </action>
       <action id="MethodUp">
         <abbreviation name="pm" />
       </action>
