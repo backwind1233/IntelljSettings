@@ -4,6 +4,7 @@
       <action id="MethodDown">
         <abbreviation name="nm" />
       </action>
+      <action id="EditorDuplicateLines" />
       <action id="CopyReference">
         <abbreviation name="cr" />
       </action>
