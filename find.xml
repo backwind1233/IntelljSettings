@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
-    <option name="defaultScopeName" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
-    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/shop-businessadmin-web/src/main/java/com/dianping/shopbusinessop/web/action/leadsdispatch/LeadsAutoDispatchAction.java - [shop-businessadmin-web]'" />
+    <option name="customScope" value="File '/Users/plato1233/Git/wed-marketing-mirror-web/src/main/java/com/dianping/wed/marketing/shop/service/impl/MirrorShopMonitorServiceImpl.java - [wed-marketing-mirror-web]'" />
+    <option name="defaultScopeName" value="File '/Users/plato1233/Git/wed-marketing-mirror-web/src/main/java/com/dianping/wed/marketing/shop/service/impl/MirrorShopMonitorServiceImpl.java - [wed-marketing-mirror-web]'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/plato1233/Git/wed-marketing-mirror-web/src/main/java/com/dianping/wed/marketing/shop/service/impl/MirrorShopMonitorServiceImpl.java - [wed-marketing-mirror-web]'" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
