@@ -1,5 +1,5 @@
 <application>
-  <component name="TemplateCache" checksum="1477430091902">
+  <component name="TemplateCache" checksum="1478126850902">
     <jvm name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home" value="-agentpath:/macos/libjprofilerti.jnilib=${PARAM}" />
   </component>
 </application>
