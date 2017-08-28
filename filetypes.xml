@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="TestGitRevert" type="PLAIN_TEXT" />
+      <mapping pattern="tetetete" type="PLAIN_TEXT" />
+      <mapping pattern="FlowControlUtil.groovy" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsdf" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern="目标养成" type="PLAIN_TEXT" />
+      <mapping pattern="ignoretest" type="PLAIN_TEXT" />
+      <mapping pattern="思维模型" type="PLAIN_TEXT" />
+      <mapping pattern="随笔、自己想到的话" type="PLAIN_TEXT" />
+      <mapping pattern="目标养成.md" type="PLAIN_TEXT" />
+      <mapping pattern="d" type="PLAIN_TEXT" />
+      <mapping pattern="appcontext-dao" type="XML" />
+      <mapping pattern="appcontext-service" type="XML" />
+    </extensionMap>
+  </component>
+</application>
