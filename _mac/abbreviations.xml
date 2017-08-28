@@ -1,0 +1,39 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorScrollDown" />
+      <action id="EditorScrollTop">
+        <abbreviation name="top" />
+        <abbreviation name="stt" />
+      </action>
+      <action id="JRebel Debug">
+        <abbreviation name="dwj" />
+      </action>
+      <action id="Images.SetBackgroundImage">
+        <abbreviation name="sbgi" />
+      </action>
+      <action id="MethodUp">
+        <abbreviation name="pm" />
+      </action>
+      <action id="EditorMoveToPageBottom" />
+      <action id="XDebugger.MuteBreakpoints">
+        <abbreviation name="muteb" />
+      </action>
+      <action id="EditorDuplicateLines" />
+      <action id="MethodDown">
+        <abbreviation name="nm" />
+      </action>
+      <action id="EditorScrollBottom">
+        <abbreviation name="btm" />
+        <abbreviation name="stb" />
+      </action>
+      <action id="CopyReference">
+        <abbreviation name="cr" />
+      </action>
+      <action id="EditorMoveToPageTop" />
+      <action id="TypeHierarchy">
+        <abbreviation name="th" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
